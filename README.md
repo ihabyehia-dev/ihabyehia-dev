@@ -1,48 +1,74 @@
-# Ihab Yehia
+# Hi, I'm Ihab Yehia
 
-**Computer Science Student | Software Developer | Open Source Enthusiast**
+**Computer Science Student | Aspiring Full-Stack Developer | Artificial Intelligence | Open Source**
 
-Second-year Computer Science student at Beirut Arab University, pursuing the Software Development track. Interested in backend development, artificial intelligence, and contributing to real-world software projects.
+## About Me
+
+I'm a second-year Computer Science student at Beirut Arab University pursuing the Artificial Intelligence track.
+
+My career goal is to become a full-stack software engineer with a strong background in AI, combining software engineering with intelligent technologies to build practical, reliable applications.
+
+I enjoy solving problems, exploring existing codebases, developing new features and continuously improving my technical skills through hands-on projects.
 
 ## Technical Skills
 
-- **Languages:** Java, C++, Python, PHP, SQL
-- **Backend:** Hibernate, MySQL, REST API concepts
-- **Testing:** JUnit, debugging, regression testing
-- **Tools:** Git, GitHub, Maven, Eclipse
-- **Concepts:** OOP, data structures, algorithms and software engineering
+**Programming Languages**
+- Java, C++, Python, PHP, SQL
 
-## Open Source — OpenMRS
+**Web Development**
+- HTML, CSS, JavaScript
+- PHP and MySQL
 
-Currently exploring and developing experimental improvements to OpenMRS, an open-source electronic medical record platform.
+**Software Engineering**
+- Object-oriented programming
+- Data structures and algorithms
+- Hibernate ORM
+- JUnit and automated testing
+- Git, GitHub and Maven
+
+## Open Source Development — OpenMRS
+
+Working on experimental improvements to OpenMRS, an open-source healthcare software platform.
 
 | Project | Description |
 |---|---|
-| [Hibernate Query Improvement](https://github.com/ihabyehia-dev/openmrs-core/compare/master...experiment/hibernate-query-fix) | Improved query type safety in the HL7 DAO. |
-| [Patient Identifier Validation](https://github.com/ihabyehia-dev/openmrs-core/compare/master...experiment/patient-identifier-fix) | Addressed a potential NullPointerException and added regression testing. |
-| [Patient Search Optimization](https://github.com/ihabyehia-dev/openmrs-core/compare/master...experiment/patient-search) | Implemented enforcement of configured maximum search results. |
-| [Patient Age-Range Search](https://github.com/ihabyehia-dev/openmrs-core/compare/master...experiment/patient-age-search) | Developed a new API feature across four architectural layers, with nine locally passing JUnit tests. |
+| [Hibernate Query Improvement](https://github.com/ihabyehia-dev/openmrs-core/compare/master...experiment/hibernate-query-fix) | Improved Hibernate query type safety. |
+| [Patient Identifier Validation](https://github.com/ihabyehia-dev/openmrs-core/compare/master...experiment/patient-identifier-fix) | Addressed a potential NullPointerException with regression testing. |
+| [Patient Search Limit](https://github.com/ihabyehia-dev/openmrs-core/compare/master...experiment/patient-search) | Improved enforcement of configured search limits. |
+| [Patient Age-Range Search](https://github.com/ihabyehia-dev/openmrs-core/compare/master...experiment/patient-age-search) | Implemented a new search feature across four architectural layers, supported by nine locally passing JUnit tests. |
 
-These changes are experimental and have not yet been merged into the official OpenMRS repository.
+These experiments are available for review and have not yet been merged into the official OpenMRS repository.
 
-## Personal Projects
+## Featured Projects
 
-- **IRONFIT:** Gym management and booking system.
-- **StudyShelf:** PHP and MySQL catalog management platform.
-- **Hospital Triage System:** Java-based patient queue and priority management simulation.
-- **Banking System:** Object-oriented Java application.
+- **IRONFIT** — Gym management and booking system.
+- **StudyShelf** — Web-based catalog management platform.
+- **Hospital Triage System** — Java application using patient queues and priority management.
+- **Banking System** — Java application demonstrating object-oriented programming.
 
-## Activities
+## Currently Learning
 
-- ACM AI Track member.
-- Open-source development and community participation.
-- Continuous learning in software engineering and artificial intelligence.
+- Full-stack application development
+- Spring Boot and REST APIs
+- Modern frontend technologies
+- Machine learning and artificial intelligence
+- AI agents and intelligent applications
+- Software architecture and design patterns
 
-## Career Interests
+## Education & Activities
 
-Currently seeking software development internships where I can contribute to real projects, learn from experienced engineers and strengthen my technical skills.
+- Computer Science — Beirut Arab University
+- Artificial Intelligence Track
+- ACM AI Track Member
+- Open-source development and community participation
 
-## Contact
+## Career Goals
+
+My goal is to develop complete software solutions, from frontend interfaces and backend architecture to database management and AI integration.
+
+I'm currently open to internship opportunities in software engineering, full-stack development and artificial intelligence.
+
+## Let's Connect
 
 - GitHub: [ihabyehia-dev](https://github.com/ihabyehia-dev)
 - Email: ihabyehia06@gmail.com
